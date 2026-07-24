@@ -1,3 +1,5 @@
+# Experiment 1  =  installation of Android studio and first run progrm
+
 # DemoApplication
 
 A basic Android application developed using Android Studio, Kotlin, and XML layouts. This repository serves as a demonstration of the initial setup, basic UI modifications, and emulator execution.
