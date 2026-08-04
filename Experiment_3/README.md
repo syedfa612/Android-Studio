@@ -13,6 +13,11 @@ The application showcases a **Master-Detail flow** designed to dynamically adapt
 * **Portrait Mode (Phones):** Uses a single-pane navigation flow. Tapping an item in the list fragment replaces it with the detail fragment (added to the back stack) so that users can navigate back easily.
 * **Landscape Mode (Tablets/Rotated Phones):** Uses a split dual-pane layout. The list is displayed on the left (weight `1.2`) and the detail screen on the right (weight `1.8`), allowing updates to occur instantly using a shared `ViewModel` state.
 
+### 📸 Screenshots
+| Course List | Course Detail |
+| :---: | :---: |
+| ![Course List](screenshots/screenshot_list.jpg) | ![Course Detail](screenshots/screenshot_detail.jpg) |
+
 ---
 
 ## 🛠️ Architecture & Setup
