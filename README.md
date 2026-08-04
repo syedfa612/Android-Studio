@@ -20,7 +20,7 @@ This repository contains my Android Studio laboratory experiments for Android ap
   
   | Course List | Course Detail |
   | :---: | :---: |
-  | ![Course List](Experiment_3/screenshots/screenshot_list.jpg) | ![Course Detail](Experiment_3/screenshots/screenshot_detail.jpg) |
+  | ![Course List](Experiment_3/screenshots/screenshot_list.png) | ![Course Detail](Experiment_3/screenshots/screenshot_detail.png) |
 
 ---
 

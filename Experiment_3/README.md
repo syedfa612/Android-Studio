@@ -16,7 +16,7 @@ The application showcases a **Master-Detail flow** designed to dynamically adapt
 ### 📸 Screenshots
 | Course List | Course Detail |
 | :---: | :---: |
-| ![Course List](screenshots/screenshot_list.jpg) | ![Course Detail](screenshots/screenshot_detail.jpg) |
+| ![Course List](screenshots/screenshot_list.png) | ![Course Detail](screenshots/screenshot_detail.png) |
 
 ---
 
