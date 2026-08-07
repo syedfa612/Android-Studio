@@ -14,9 +14,9 @@ The application showcases a **Master-Detail flow** designed to dynamically adapt
 * **Landscape Mode (Tablets/Rotated Phones):** Uses a split dual-pane layout. The list is displayed on the left (weight `1.2`) and the detail screen on the right (weight `1.8`), allowing updates to occur instantly using a shared `ViewModel` state.
 
 ### 📸 Screenshots
-| Course List | Course Detail |
-| :---: | :---: |
-| ![Course List](screenshots/screenshot_list.png) | ![Course Detail](screenshots/screenshot_detail.png) |
+| Course List | Kotlin Detail | Android Detail |
+| :---: | :---: | :---: |
+| ![Course List](screenshots/screenshot_list.png) | ![Kotlin Detail](screenshots/screenshot_detail_kotlin.png) | ![Android Detail](screenshots/screenshot_detail_android.png) |
 
 ---
 
