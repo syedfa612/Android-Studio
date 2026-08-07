@@ -20,7 +20,7 @@ This repository contains my Android Studio laboratory experiments for Android ap
   
   | Course List | Kotlin Detail | Android Detail |
   | :---: | :---: | :---: |
-  | ![Course List](Experiment_3/screenshots/screenshot_list.png) | ![Kotlin Detail](Experiment_3/screenshots/screenshot_detail_kotlin.png) | ![Android Detail](Experiment_3/screenshots/screenshot_detail_android.png) |
+  | ![Course List](Experiment_3/screenshots/screenshot_list_v2.png) | ![Kotlin Detail](Experiment_3/screenshots/screenshot_detail_kotlin_v2.png) | ![Android Detail](Experiment_3/screenshots/screenshot_detail_android_v2.png) |
 
 ---
 

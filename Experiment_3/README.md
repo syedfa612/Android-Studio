@@ -16,7 +16,7 @@ The application showcases a **Master-Detail flow** designed to dynamically adapt
 ### 📸 Screenshots
 | Course List | Kotlin Detail | Android Detail |
 | :---: | :---: | :---: |
-| ![Course List](screenshots/screenshot_list.png) | ![Kotlin Detail](screenshots/screenshot_detail_kotlin.png) | ![Android Detail](screenshots/screenshot_detail_android.png) |
+| ![Course List](screenshots/screenshot_list_v2.png) | ![Kotlin Detail](screenshots/screenshot_detail_kotlin_v2.png) | ![Android Detail](screenshots/screenshot_detail_android_v2.png) |
 
 ---
 
