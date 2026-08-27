@@ -31,6 +31,15 @@ This repository contains my Android Studio laboratory experiments for Android ap
   | :---: | :---: |
   | ![Welcome Back Screen](Experiment_4/screenshots/screenshot_login.jpg) | ![User Details Screen](Experiment_4/screenshots/screenshot_details.png) |
 
+### 4. [Experiment 5: Android Notifications](Experiment_5/)
+* **Description:** An Android application demonstrating the creation and display of notifications upon successful login/validation, building upon the Activity Linking and Intent flow.
+* **Location:** `/Experiment_5`
+* **Screenshots:**
+
+  | Welcome Back / Login | User Details |
+  | :---: | :---: |
+  | ![Login Screen](Experiment_5/screenshots/screenshot_login.png) | ![User Details Screen](Experiment_5/screenshots/screenshot_details.png) |
+
 ---
 
 ## 🛠️ How to Open and Run
@@ -43,4 +52,5 @@ This repository contains my Android Studio laboratory experiments for Android ap
    * Select `/Experiment_1` to open the first app.
    * Select `/Experiment_3` to open the fragments app.
    * Select `/Experiment_4` to open the intents app.
+   * Select `/Experiment_5` to open the notification app.
 4. Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).
