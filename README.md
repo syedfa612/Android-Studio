@@ -22,6 +22,15 @@ This repository contains my Android Studio laboratory experiments for Android ap
   | :---: | :---: | :---: |
   | ![Course List](Experiment_3/screenshots/screenshot_list_v2.png) | ![Kotlin Detail](Experiment_3/screenshots/screenshot_detail_kotlin_v2.png) | ![Android Detail](Experiment_3/screenshots/screenshot_detail_android_v2.png) |
 
+### 3. [Experiment 4: Linking Activities Using Intents](Experiment_4/)
+* **Description:** An Android application demonstrating activity navigation and passing data using Explicit Intents and Extras (Username, Age, Email form flow).
+* **Location:** `/Experiment_4`
+* **Screenshots:**
+
+  | Welcome Back / Login | User Details / Second Activity |
+  | :---: | :---: |
+  | ![Welcome Back Screen](Experiment_4/screenshots/screenshot_login.jpg) | ![User Details Screen](Experiment_4/screenshots/screenshot_details.png) |
+
 ---
 
 ## 🛠️ How to Open and Run
@@ -33,4 +42,5 @@ This repository contains my Android Studio laboratory experiments for Android ap
 3. Select **File > Open** and choose the directory of the specific experiment you want to work on:
    * Select `/Experiment_1` to open the first app.
    * Select `/Experiment_3` to open the fragments app.
+   * Select `/Experiment_4` to open the intents app.
 4. Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).
