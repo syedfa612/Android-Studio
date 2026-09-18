@@ -40,6 +40,15 @@ This repository contains my Android Studio laboratory experiments for Android ap
   | :---: | :---: |
   | ![Login Screen](Experiment_5/screenshots/screenshot_login.png) | ![User Details Screen](Experiment_5/screenshots/screenshot_details.png) |
 
+### 5. [Lab Test 1: MedAlert Medicine Reminder](Lab_Test_1/)
+* **Description:** A Medicine Reminder application (MedAlert) built with Kotlin, ViewBinding, RecyclerView with CardView, Fragments with FragmentResult API, Explicit Intents, and Notification alerts.
+* **Location:** `/Lab_Test_1`
+* **Screenshots:**
+
+  | Dashboard / Welcome Screen |
+  | :---: |
+  | ![Dashboard Screen](Lab_Test_1/screenshots/screenshot_dashboard.png) |
+
 ---
 
 ## 🛠️ How to Open and Run
@@ -53,4 +62,5 @@ This repository contains my Android Studio laboratory experiments for Android ap
    * Select `/Experiment_3` to open the fragments app.
    * Select `/Experiment_4` to open the intents app.
    * Select `/Experiment_5` to open the notification app.
+   * Select `/Lab_Test_1` to open the MedAlert Medicine Reminder app.
 4. Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).
