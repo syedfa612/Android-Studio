@@ -18,50 +18,24 @@
 ## Screenshots & App Flow
 
 ### 1. Splash & Home Dashboard
-<table>
-  <tr>
-    <td align="center"><b>Splash Screen</b></td>
-    <td align="center"><b>Home Dashboard</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/splash_screen.png" width="280" alt="Splash Screen"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/main_screen.png" width="280" alt="Home Dashboard"/></td>
-  </tr>
-</table>
+| Splash Screen | Home Dashboard |
+| :---: | :---: |
+| ![Splash Screen](./screenshots/splash_screen.png) | ![Home Dashboard](./screenshots/main_screen.png) |
 
 ### 2. Contact Selection & Details
-<table>
-  <tr>
-    <td align="center"><b>Contacts List</b></td>
-    <td align="center"><b>Contact Details</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/contacts_screen.png" width="280" alt="Contacts List"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/contact_details_screen.png" width="280" alt="Contact Details"/></td>
-  </tr>
-</table>
+| Contacts List | Contact Details |
+| :---: | :---: |
+| ![Contacts List](./screenshots/contacts_screen.png) | ![Contact Details](./screenshots/contact_details_screen.png) |
 
 ### 3. Generated QR Code & Local History
-<table>
-  <tr>
-    <td align="center"><b>Generated QR Code</b></td>
-    <td align="center"><b>QR History</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/qr_code_screen.png" width="280" alt="Generated QR Code"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/qr_history_screen.png" width="280" alt="QR History"/></td>
-  </tr>
-</table>
+| Generated QR Code | QR History |
+| :---: | :---: |
+| ![Generated QR Code](./screenshots/qr_code_screen.png) | ![QR History](./screenshots/qr_history_screen.png) |
 
 ### 4. About Application
-<table>
-  <tr>
-    <td align="center"><b>About Screen</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/lab%20test%20-%202/screenshots/about_screen.png" width="280" alt="About Screen"/></td>
-  </tr>
-</table>
+| About Screen |
+| :---: |
+| ![About Screen](./screenshots/about_screen.png) |
 
 ---
 
