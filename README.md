@@ -49,6 +49,15 @@ This repository contains my Android Studio laboratory experiments for Android ap
   | :---: |
   | ![Dashboard Screen](Lab_Test_1/screenshots/screenshot_dashboard.png) |
 
+### 6. [Lab Test 2: QRVault - Contact QR Code Generator & Storage](lab%20test%20-%202/)
+* **Description:** A Contact QR code generator & vault application built with Kotlin, Contacts ContentProvider, ZXing QR generation engine, SQLite database (`SQLiteOpenHelper`), MediaStore, and FileProvider.
+* **Location:** `/lab test - 2`
+* **Screenshots:**
+
+  | Home Dashboard | Generated QR Code | QR History |
+  | :---: | :---: | :---: |
+  | ![Home Dashboard](lab%20test%20-%202/screenshots/main_screen.png) | ![Generated QR Code](lab%20test%20-%202/screenshots/qr_code_screen.png) | ![QR History](lab%20test%20-%202/screenshots/qr_history_screen.png) |
+
 ---
 
 ## 🛠️ How to Open and Run
@@ -63,4 +72,5 @@ This repository contains my Android Studio laboratory experiments for Android ap
    * Select `/Experiment_4` to open the intents app.
    * Select `/Experiment_5` to open the notification app.
    * Select `/Lab_Test_1` to open the MedAlert Medicine Reminder app.
+   * Select `/lab test - 2` to open the QRVault app.
 4. Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).
