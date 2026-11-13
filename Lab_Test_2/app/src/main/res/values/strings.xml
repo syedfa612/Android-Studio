@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRVault</string>
+    <string name="tagline">Contact Sharing with QR Code Generator</string>
+    <string name="logo_desc">QRVault logo</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="version">Version 1.0</string>
+
+    <!-- Home -->
+    <string name="welcome_title">Welcome to QRVault</string>
+    <string name="welcome_subtitle">Turn any contact into a scannable QR code in seconds.</string>
+    <string name="fetch_contacts">Fetch Contacts</string>
+    <string name="qr_history">QR History</string>
+    <string name="about_application">About Application</string>
+    <string name="about_summary">QRVault reads the contacts stored on your phone, converts the one you choose into a vCard QR code, and lets you save or share it. Everything stays on your device.</string>
+    <string name="learn_more">Learn more</string>
+
+    <!-- Contacts -->
+    <string name="contacts_title">Contacts</string>
+    <string name="search_hint">Search by name or number</string>
+    <string name="contacts_count">%1$d contacts</string>
+    <string name="no_phone">No phone number</string>
+    <string name="no_email">No email address</string>
+    <string name="unnamed_contact">Unnamed contact</string>
+    <string name="contacts_empty_title">No contacts found</string>
+    <string name="contacts_empty_message">Your phone has no saved contacts yet.</string>
+    <string name="contacts_no_match_title">No matching contacts</string>
+    <string name="contacts_no_match_message">Try a different name or number.</string>
+    <string name="contacts_error_title">Something went wrong</string>
+    <string name="contacts_error">Could not load contacts. Please try again.</string>
+    <string name="retry">Try Again</string>
+    <string name="perm_title">Contacts access needed</string>
+    <string name="perm_rationale">QRVault needs to read your contacts so you can pick one and turn it into a QR code. Contacts are never uploaded anywhere; they stay on your device.</string>
+    <string name="perm_continue">Continue</string>
+    <string name="perm_not_now">Not now</string>
+    <string name="perm_denied_title">Permission required</string>
+    <string name="perm_denied_message">Without contacts access QRVault cannot list your contacts. Grant the permission to continue.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+
+    <!-- Details -->
+    <string name="contact_details">Contact Details</string>
+    <string name="phone_label">Phone</string>
+    <string name="email_label">Email</string>
+    <string name="generate_qr">Generate QR Code</string>
+    <string name="choose_another">Choose Another Contact</string>
+    <string name="contact_missing">Contact data is missing.</string>
+
+    <!-- QR screen -->
+    <string name="qr_title">Your QR Code</string>
+    <string name="qr_code_desc">Generated QR code</string>
+    <string name="qr_hint">Scan with any phone camera or QR scanner to add this contact.</string>
+    <string name="save_qr">Save QR Code</string>
+    <string name="share_qr">Share QR Code</string>
+    <string name="generate_another">Generate Another QR Code</string>
+    <string name="back_home">Back to Home</string>
+    <string name="not_available">Not available</string>
+    <string name="record_missing">QR data is missing.</string>
+    <string name="qr_failed">Could not generate the QR code. Please try again.</string>
+    <string name="history_not_saved">QR code created, but it could not be saved to history.</string>
+    <string name="saved_ok">QR code saved to Pictures/QRVault</string>
+    <string name="saved_fail">Could not save the image.</string>
+    <string name="storage_denied">Storage permission is needed to save the image on this Android version.</string>
+    <string name="share_fail">Could not share the QR code.</string>
+    <string name="share_chooser">Share QR code via</string>
+    <string name="no_share_app">No app available to share with.</string>
+
+    <!-- History -->
+    <string name="history_title">QR History</string>
+    <string name="history_empty_title">No QR codes yet</string>
+    <string name="history_empty_message">QR codes you generate will appear here.</string>
+    <string name="delete_title">Delete this record?</string>
+    <string name="delete_message">The history entry for %1$s will be permanently removed.</string>
+    <string name="deleted">History entry deleted</string>
+    <string name="delete_failed">Could not delete the entry.</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_description">QRVault is a contact sharing app. It fetches contacts through the Android Contacts Content Provider, encodes the selected contact as a vCard 3.0 QR code with ZXing, and keeps a local history in SQLite. QR codes can be saved to your gallery or shared through any installed app.</string>
+    <string name="technologies_title">Technologies Used</string>
+    <string name="technologies_list">• Kotlin and AndroidX\n• XML layouts with Material Components\n• SQLite (SQLiteOpenHelper, QRVault.db)\n• ContactsContract Content Provider\n• ZXing core for QR generation\n• MediaStore and FileProvider for saving and sharing\n• Android runtime permissions</string>
+    <string name="developer_title">Developer Information</string>
+    <string name="developer_placeholder">Developer name: [Your Name]\nCourse: [Your Course]\nInstitution: [Your Institution]</string>
+    <string name="privacy_title">Privacy</string>
+    <string name="privacy_message">No data leaves your device. Contacts are read only when you open the contact list, and no network permission is requested.</string>
+</resources>

@@ -16,47 +16,36 @@ This repository contains my Android Studio laboratory experiments for Android ap
   * **Dual-Pane split layout** for tablet or landscape orientations.
 * **Lab Exercises:** Demonstrates normal breakpoints (inspecting fragment lifecycle, call stacks, and local variables) and conditional breakpoints.
 * **Location:** `/Experiment_3`
-* **Screenshots:**
-  
-  | Course List | Kotlin Detail | Android Detail |
-  | :---: | :---: | :---: |
-  | ![Course List](Experiment_3/screenshots/screenshot_list_v2.png) | ![Kotlin Detail](Experiment_3/screenshots/screenshot_detail_kotlin_v2.png) | ![Android Detail](Experiment_3/screenshots/screenshot_detail_android_v2.png) |
 
 ### 3. [Experiment 4: Linking Activities Using Intents](Experiment_4/)
 * **Description:** An Android application demonstrating activity navigation and passing data using Explicit Intents and Extras (Username, Age, Email form flow).
 * **Location:** `/Experiment_4`
-* **Screenshots:**
-
-  | Welcome Back / Login | User Details / Second Activity |
-  | :---: | :---: |
-  | ![Welcome Back Screen](Experiment_4/screenshots/screenshot_login.jpg) | ![User Details Screen](Experiment_4/screenshots/screenshot_details.png) |
 
 ### 4. [Experiment 5: Android Notifications](Experiment_5/)
 * **Description:** An Android application demonstrating the creation and display of notifications upon successful login/validation, building upon the Activity Linking and Intent flow.
 * **Location:** `/Experiment_5`
-* **Screenshots:**
-
-  | Welcome Back / Login | User Details |
-  | :---: | :---: |
-  | ![Login Screen](Experiment_5/screenshots/screenshot_login.png) | ![User Details Screen](Experiment_5/screenshots/screenshot_details.png) |
 
 ### 5. [Lab Test 1: MedAlert Medicine Reminder](Lab_Test_1/)
 * **Description:** A Medicine Reminder application (MedAlert) built with Kotlin, ViewBinding, RecyclerView with CardView, Fragments with FragmentResult API, Explicit Intents, and Notification alerts.
 * **Location:** `/Lab_Test_1`
-* **Screenshots:**
 
-  | Dashboard / Welcome Screen |
-  | :---: |
-  | ![Dashboard Screen](Lab_Test_1/screenshots/screenshot_dashboard.png) |
-
-### 6. [Lab Test 2: QRVault - Contact QR Code Generator & Storage](lab%20test%20-%202/)
+### 6. [Lab Test 2: QRVault - Contact QR Code Generator & Storage](Lab_Test_2/)
 * **Description:** A Contact QR code generator & vault application built with Kotlin, Contacts ContentProvider, ZXing QR generation engine, SQLite database (`SQLiteOpenHelper`), MediaStore, and FileProvider.
-* **Location:** `/lab test - 2`
+* **Location:** `/lab test - 2` / `/Lab_Test_2`
 * **Screenshots:**
 
-  | Home Dashboard | Generated QR Code | QR History |
-  | :---: | :---: | :---: |
-  | ![Home Dashboard](lab%20test%20-%202/screenshots/main_screen.png) | ![Generated QR Code](lab%20test%20-%202/screenshots/qr_code_screen.png) | ![QR History](lab%20test%20-%202/screenshots/qr_history_screen.png) |
+  <table>
+    <tr>
+      <td align="center"><b>Home Dashboard</b></td>
+      <td align="center"><b>Generated QR Code</b></td>
+      <td align="center"><b>QR History</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/Lab_Test_2/screenshots/main_screen.png" width="220" alt="Home Dashboard"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/Lab_Test_2/screenshots/qr_code_screen.png" width="220" alt="Generated QR Code"/></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/syedfa612/Android-Studio/main/Lab_Test_2/screenshots/qr_history_screen.png" width="220" alt="QR History"/></td>
+    </tr>
+  </table>
 
 ---
 
@@ -72,5 +61,5 @@ This repository contains my Android Studio laboratory experiments for Android ap
    * Select `/Experiment_4` to open the intents app.
    * Select `/Experiment_5` to open the notification app.
    * Select `/Lab_Test_1` to open the MedAlert Medicine Reminder app.
-   * Select `/lab test - 2` to open the QRVault app.
+   * Select `/Lab_Test_2` (or `/lab test - 2`) to open the QRVault app.
 4. Click **Run** (`Shift + F10`) or **Debug** (`Shift + F9`).

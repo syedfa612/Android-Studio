@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#0A1931</color>
+    <color name="navy_light">#14264A</color>
+    <color name="electric_blue">#2D7BFF</color>
+    <color name="blue_tint">#E3EDFF</color>
+    <color name="surface_grey">#F2F5FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#0A1931</color>
+    <color name="text_secondary">#5B6B8C</color>
+    <color name="text_on_navy_muted">#B7C6E6</color>
+    <color name="divider">#E1E7F0</color>
+    <color name="error">#D93B3B</color>
+</resources>
